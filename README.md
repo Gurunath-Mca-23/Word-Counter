@@ -3,6 +3,7 @@ Description: This HTML document displays the top 3 most frequently occurring wor
 
 # How to Run Project
 step 1 : Save the HTML file with html extension.
+
 step 2 : Click the "Go Live" button.A new browser window will open, displaying top 3 words.
 
 # Future Enhancements:
